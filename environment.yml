@@ -1,0 +1,17 @@
+name: KakaduFishAI
+dependencies:
+  - matplotlib
+  - opencv
+  - python=3.6.5
+  - Pillow
+  - pip
+  - pip:
+    - azure-cognitiveservices-vision-customvision
+    - azure-functions
+    - azure-storage
+    - azureml-sdk[notebooks,automl]
+    - ffmpeg-python
+    - python-dotenv
+    - tensorflow
+    - seaborn
+    - xlsxwriter
