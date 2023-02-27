@@ -16,7 +16,7 @@ This repository demonstrates how we developed a training dataset and deep learni
 
 ### Access the data
 
-This dataset can be accessed on [Zenodo](10.5281/zenodo.7250921). It consists of 44,412 images in .jpg format with 82,904 bounding box annotations for 23 freshwater fish species. The annotations are in COCO format.
+This dataset can be accessed on [Zenodo](https://zenodo.org/record/7250921#.Y_w4tMJBzl0). It consists of 44,412 images in .jpg format with 82,904 bounding box annotations for 23 freshwater fish species. The annotations are in COCO format.
 
 ### Setting up your desktop
 
@@ -27,7 +27,7 @@ Follow the steps below to install this repository on your dekstop.
   * Choose All Users
 * Install [Git Desktop](https://desktop.github.com/)
 * Open Git Desktop and clone https://github.com/ajansenn/KakaduFishAI.git
-* Open Anaconda Prompt, cd to folder with cloned repository and [create conda environment] using the code below(https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-environment#local):
+* Open Anaconda Prompt, cd to folder with cloned repository and [create conda environment](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-environment#local) using the code below:
 ```
 conda env create -f environment.yml
 conda env list
@@ -150,7 +150,7 @@ Enter you project keys and run notebook to plot data.
   For more details contact:
   
 * [Andrew Jansen](mailto:andrew.jansen@dcceew.gov.au) (Supervising Scientist, Department of Climate Change, Energy, Environment and Water)
-* [Steve van Bodegraven](mailto:Steve.VanBodegraven@ForBetterAI.onmicrosoft.com), Microsoft
+* [Steve van Bodegraven](mailto:Steve.VanBodegraven@ForBetterAI.onmicrosoft.com) (Microsoft)
 * Andrew Esparon (Supervising Scientist, Department of Climate Change, Energy, Environment and Water)
 * Varma Gadhiraju (Microsoft, Australia)
 * Kris Bock (Microsoft, Australia)
